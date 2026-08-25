@@ -384,11 +384,11 @@ HTML_TEMPLATE = """\
         <!-- Footer -->
         <footer class="footer">
             <div class="footer-content">
-                <p><a href="https://github.com/davidpagnon/Sports2D" target="_blank">Sports2D GitHub</a> (⭐please leave a star!⭐) &bull;
+                <p><a href="https://github.com/davidpagnon/Sports2D" target="_blank">Sports2D GitHub</a> (⭐Star it⭐ or ❤️<a href="https://github.com/sponsors/davidpagnon" target="_blank">Sponsor it!</a>❤️) &bull;
                    <a href="#how-to-cite">Cite Sports2D</a>
                 </p>
                 <p>Open-source markerless motion capture &bull; BSD-3-Clause License</p>
-                <p>Website Created by AYL & <a href="https://david-pagnon.com/fr/en-deux-mots/" target="_blank">DP</a> with ❤️ for the Markerless Community</p>
+                <p>Website Created by AYL & <a href="https://david-pagnon.com/fr/en-deux-mots/" target="_blank">DP</a> with 🫶 for the Markerless Community</p>
             </div>
         </footer>
     </main>

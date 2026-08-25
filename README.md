@@ -26,6 +26,7 @@ Please visit the website! (after leaving a **⭐star⭐**! 😇)
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 \
 [![Discord](https://img.shields.io/discord/1183750225471492206?logo=Discord&label=Discord%20community)](https://discord.com/invite/4mXUdSFjmt)
+[![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/davidpagnon)
 [![Hugging Face Space](https://img.shields.io/badge/HuggingFace-Sports2D-yellow?logo=huggingface)](https://huggingface.co/spaces/DavidPagnon/sports2d)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/davidpagnon/Sports2D)
 
@@ -67,8 +68,8 @@ https://github.com/user-attachments/assets/2ce62012-f28c-4e23-b3b8-f68931bacb77
 <br>
 
 > [!IMPORTANT]
-> If you like it, ⭐ please leave a star ⭐ on the [Sports2D GitHub repository](https://github.com/perfanalytics/sports2d)!\
-> This project is completely free: this is your chance to support the project and make it more visible to the community.
+> This project is completely free and open-source: it you like it and find it useful, please consider supporting it!\
+> You can help make it more visible and sustainable by ⭐ [Giving us a star](https://github.com/davidpagnon/sports2d) ⭐ or ❤️ [Becoming a sponsor](https://github.com/sponsors/davidpagnon). ❤️
 
 > [!IMPORTANT]
 > If you want to contribute to Sports2D or Pose2Sim, please see [How to contribute](#how-to-contribute-and-to-do-list) or join the Discord community! [![Discord](https://img.shields.io/discord/1183750225471492206?logo=Discord&label=Discord%20community)](https://discord.com/invite/4mXUdSFjmt)
